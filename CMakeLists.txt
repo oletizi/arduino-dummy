@@ -1,2 +1,2 @@
-add_library(arduino-dummy INTERFACE Arduino_dummy.h)
-target_include_directories(arduino-dummy INTERFACE .)
+add_library(libarduino-dummy INTERFACE Arduino_dummy.h)
+target_include_directories(libarduino-dummy INTERFACE .)
